@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA-in-Java.iml" filepath="$PROJECT_DIR$/.idea/DSA-in-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StacksAndQueue/Stack/DelimiterMathing/DelimiterMathing.iml" filepath="$PROJECT_DIR$/StacksAndQueue/Stack/DelimiterMathing/DelimiterMathing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StacksAndQueue/Stack/InfixToPostfix/InfixToPostfix.iml" filepath="$PROJECT_DIR$/StacksAndQueue/Stack/InfixToPostfix/InfixToPostfix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Simple Arrays/Ordered Array/Ordered Array.iml" filepath="$PROJECT_DIR$/Simple Arrays/Ordered Array/Ordered Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StacksAndQueue/Queue/Queue.iml" filepath="$PROJECT_DIR$/StacksAndQueue/Queue/Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Simple Arrays/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Simple Arrays/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sortings/Sortings.iml" filepath="$PROJECT_DIR$/Sortings/Sortings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StacksAndQueue/Stack/Stack.iml" filepath="$PROJECT_DIR$/StacksAndQueue/Stack/Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StacksAndQueue/StacksAndQueue.iml" filepath="$PROJECT_DIR$/StacksAndQueue/StacksAndQueue.iml" />
+    </modules>
+  </component>
+</project>
