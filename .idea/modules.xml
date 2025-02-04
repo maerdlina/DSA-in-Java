@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/Sortings/Sortings.iml" filepath="$PROJECT_DIR$/Sortings/Sortings.iml" />
       <module fileurl="file://$PROJECT_DIR$/StacksAndQueue/Stack/Stack.iml" filepath="$PROJECT_DIR$/StacksAndQueue/Stack/Stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/StacksAndQueue/StacksAndQueue.iml" filepath="$PROJECT_DIR$/StacksAndQueue/StacksAndQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WorkWithFiles/WorkWithFiles.iml" filepath="$PROJECT_DIR$/WorkWithFiles/WorkWithFiles.iml" />
     </modules>
   </component>
 </project>
